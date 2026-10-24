@@ -220,6 +220,6 @@ Improve every day.
 
 <div align="center">
 
-<sub>Designed with 💜, powered by curiosity, built with code.</sub>
+<sub>Designed with inteligence, powered by curiosity, built with code.</sub>
 
 </div>
