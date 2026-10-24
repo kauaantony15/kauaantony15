@@ -113,7 +113,7 @@ public class KauaAntony15 {
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=kauaantony15&bg_color=080B18&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kauaantony15&bg_color=080B18&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
 
 </div>
 
