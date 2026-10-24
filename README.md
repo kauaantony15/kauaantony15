@@ -222,7 +222,7 @@ Improve every day.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kauaantony15&style=for-the-badge&color=6366F1&label=VISITORS+TO+MY+PROFILE" alt="Profile visitors"/>
+<img src="https://img.shields.io/badge/PROFILE-ONLINE-00E5FF?style=for-the-badge&labelColor=080B18" alt="Profile online"/>
 
 <br/><br/>
 
