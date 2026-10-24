@@ -5,6 +5,24 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:111C44,45:4F46E5,70:7C3AED,100:00E5FF&height=260&section=header&text=kauaantony15&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=✦%20WELCOME%20TO%20MY%20DIGITAL%20UNIVERSE%20✦&descSize=16&descAlignY=58"/>
 
+<!-- ═══════════════ ANIMATED BRAZIL FLAG ═══════════════ -->
+
+<br/>
+
+<a href="https://github.com/kauaantony15">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/6/66/Animated-Flag-Brazil.gif"
+    width="115"
+    alt="Bandeira animada do Brasil"
+  />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🇧🇷_BRAZILIAN_DEVELOPER-009739?style=for-the-badge&labelColor=080B18"/>
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=600&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=System.out.println(%22Hello%2C+World!%22);Initializing+developer+system...;Java+%E2%98%95+%7C+Python+%F0%9F%90%8D;Turning+ideas+into+reality;while(true)+%7B+learn();+build();+%7D" alt="Animated introduction"/>
 
 <br/>
