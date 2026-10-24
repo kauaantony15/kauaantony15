@@ -208,7 +208,7 @@ Improve every day.
 
 <br/><br/>
 
-### 💜 Thanks for visiting my universe!
+### ✔️ Thanks for visiting my profile! ✔️
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=You+are+awesome.;See+you+in+the+next+commit!;System.exit(0)%3B" alt="Goodbye animation"/>
 
