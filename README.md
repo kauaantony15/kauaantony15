@@ -132,7 +132,7 @@ public class KauaAntony15 {
 <br/><br/>
 
 <a href="https://github.com/kauaantony15?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kauaantony15&repo=SEU_REPOSITORIO&theme=tokyonight&hide_border=true" alt="Featured project"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kauaantony15&repo=RPG-PYTHON&theme=tokyonight&hide_border=true" alt="Featured project"/>
 </a>
 
 <sub>Replace SEU_REPOSITORIO with the name of an existing repository.</sub>
