@@ -121,7 +121,7 @@ public class KauaAntony15 {
 
 <!-- PROJECTS -->
 
-<img src="https://img.shields.io/badge/05-RPG-PYTHON-00E5FF?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/05-PROJECTS-00E5FF?style=for-the-badge&labelColor=080B18"/>
 
 <div align="center">
 
