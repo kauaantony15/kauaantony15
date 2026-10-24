@@ -135,7 +135,7 @@ public class KauaAntony15 {
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kauaantony15&repo=RPG-PYTHON&theme=tokyonight&hide_border=true" alt="Featured project"/>
 </a>
 
-<sub>Replace SEU_REPOSITORIO with the name of an existing repository.</sub>
+<sub>PYTHON GAME (BETA).</sub>
 
 </div>
 
